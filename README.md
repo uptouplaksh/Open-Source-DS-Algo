@@ -1,3 +1,6 @@
+We are done for this year. We look forward to seeing you at Hacktoberfest 2026. Until then, HAPPY CODING!
+
+
 # The Algorithm & Data Structure Hub 🚀
 
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge)](https://hacktoberfest.com/)
