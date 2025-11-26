@@ -167,10 +167,10 @@ Thanks to all these amazing people for contributing to this project 💖
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/DevendraMane">
-                    <img src="https://avatars.githubusercontent.com/u/140258830?v=4" width="100;" alt="DevendraMane"/>
+                <a href="https://github.com/Dev-endraMane">
+                    <img src="https://avatars.githubusercontent.com/u/246144575?v=4" width="100;" alt="Dev-endraMane"/>
                     <br />
-                    <sub><b>Devendra Mane</b></sub>
+                    <sub><b>Dev-endraMane</b></sub>
                 </a>
             </td>
             <td align="center">
